@@ -10,6 +10,7 @@ git config --global color.ui auto
  
 # エイリアス
 alias his='history'
+alias la='ls -a'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 alias e="emacs"
